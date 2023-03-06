@@ -1,1 +1,4 @@
 pymongo
+wget
+pandas
+-e .
